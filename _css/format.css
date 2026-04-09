@@ -22,3 +22,20 @@ h2 {
     font-size: 1.2em;
     font-weight:bold; 
 } 
+
+.property {
+    color: #6633FF;
+}
+
+.value {
+    color: #003300;
+} 
+
+.selector {
+    color: #0033CC;
+} 
+
+.declaration {
+    color: #CC0099;
+}
+
